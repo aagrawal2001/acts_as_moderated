@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name     = "acts_as_moderated"
   s.version  = "1.0.0"
-  s.date     = "2010-06-12"
+  s.date     = "2010-6-12"
   s.summary  = "Moderation Queue for ActiveRecord Models"
   s.email    = "mark@humansized.com"
   s.homepage = "http://github.com/heavysixer/acts_as_moderated/tree/master"
